@@ -1,3 +1,7 @@
+// ルートレイアウト
+// 全てのページで共有されるレイアウト。
+// メタデータなども追加できる。
+
 import '@/app/ui/global.css'
 import { inter } from '@/app/ui/fonts'
 
